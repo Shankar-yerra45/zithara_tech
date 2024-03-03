@@ -7,10 +7,10 @@ const port = 3000;
 
 
 const pool = new Pool({
-  user: 'manikantasadhanala',
+  user: 'Shankar',
   host: 'localhost',
-  database: 'zithara_assignment',
-  password: 9666,
+  database: 'zithara',
+  password: 1234,
   port: 5432,
 });
 
